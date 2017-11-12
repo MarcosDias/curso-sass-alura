@@ -1,0 +1,14 @@
+{
+  "name": "site-apeperia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcos Dias <marcos.a.melo.dias@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./node_modules/http-server/bin/http-server ."
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0",
+    "node-sass": "^4.6.1"
+  }
+}
